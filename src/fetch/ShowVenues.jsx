@@ -53,35 +53,6 @@ const ShowVenues = () => {
             );
           })}
     </div>
-      {/* <table className="table table-striped table-hover table-bordered">
-        <thead>
-          <tr className="bg-primary">
-            <th className="col-md-2">ID</th>
-            <th className="col-md-2">Name</th>
-            <th className="col-md-2">Building</th>
-            <th className="col-md-2">Capacity</th>
-          </tr>
-        </thead>
-        <tbody>
-          {Object.keys(data).map((venue, index) => {
-            return (
-              <tr key={index}>
-                <td>{data[venue].id}</td>
-                <td>{data[venue].name}</td>
-                <td>{data[venue].building}</td>
-                <td className="d-flex justify-content-between align-items-center">
-                  <div>{data[venue].capacity}</div>
-                  <AiFillEye className="link"
-                    onClick={() => { showVenue(data[venue].id);
-                    }}
-                  />
-                </td>
-              </tr>
-            );
-          })}
-        </tbody>
-      </table> */}
-      
       </>
   );
         }

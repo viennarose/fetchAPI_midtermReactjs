@@ -41,37 +41,37 @@ const VenueSched = () => {
         <table className="table">
           <thead>
             <tr className="bg-primary">
-              <th className="text-center">ID</th>
-              <th className="text-center">Name</th>
-              <th className="text-center">Building</th>
-              <th className="text-center">Capacity</th>
+              <th className="text-center fs-6">ID</th>
+              <th className="text-center fs-6">Name</th>
+              <th className="text-center fs-6">Building</th>
+              <th className="text-center fs-6">Capacity</th>
             </tr>
           </thead>
           <tbody>
             <tr>
-              <td>{venue.id}</td>
-              <td>{venue.name}</td>
-              <td>{venue.building}</td>
-              <td>{venue.capacity}</td>
+              <td className="text-center fs-6">{venue.id}</td>
+              <td className="text-center fs-6">{venue.name}</td>
+              <td className="text-center fs-6">{venue.building}</td>
+              <td className="text-center fs-6">{venue.capacity}</td>
             </tr>
           </tbody>
         </table>
         </div>
        
         <div className="col-md-6">
-        <Link to="/" className="btn btn-lg btn-primary mb-5 mt-5 float-end">
+        <Link to="/" className="btn btn-sm btn-primary mb-5 mt-5 float-end">
           Back
         </Link>
         <h1 className="text-center mt-5">Schedules</h1>
         <table className="table table-striped">
           <thead>
             <tr className="bg-primary">
-              <th className="fs-5">ID</th>
-              <th className="fs-5">Course No.</th>
-              <th className="fs-5">Description</th>
-              <th className="fs-5">Teacher</th>
-              <th className="fs-5">Schedule</th>
-              <th className="fs-5">Size</th>
+              <th className="fs-6">ID</th>
+              <th className="fs-6">Course No.</th>
+              <th className="fs-6">Description</th>
+              <th className="fs-6">Teacher</th>
+              <th className="fs-6">Schedule</th>
+              <th className="fs-6">Size</th>
               
             </tr>
           </thead>
@@ -80,12 +80,12 @@ const VenueSched = () => {
               return (
                 <>
                   <tr key={ids}>
-                    <td className="fs-5">{schedule[sched].id}</td>
-                    <td className="fs-5">{schedule[sched].course_no}</td>
-                    <td className="fs-5">{schedule[sched].description}</td>
-                    <td className="fs-5">{schedule[sched].teacher}</td>
-                    <td className="fs-5">{schedule[sched].schedule}</td>
-                    <td className="fs-5">{schedule[sched].size}</td>
+                    <td className="fs-6">{schedule[sched].id}</td>
+                    <td className="fs-6">{schedule[sched].course_no}</td>
+                    <td className="fs-6">{schedule[sched].description}</td>
+                    <td className="fs-6">{schedule[sched].teacher}</td>
+                    <td className="fs-6">{schedule[sched].schedule}</td>
+                    <td className="fs-6">{schedule[sched].size}</td>
                    
                   </tr>
                 </>
