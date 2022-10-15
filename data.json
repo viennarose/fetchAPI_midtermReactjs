@@ -1,0 +1,748 @@
+{
+  "venues": [
+    {
+      "id": 85,
+      "name": "101S",
+      "building": "Junior High School",
+      "capacity": 55,
+      "created_at": "2022-08-10T07:49:19.000000Z",
+      "updated_at": "2022-08-10T07:49:19.000000Z"
+    },
+    {
+      "id": 86,
+      "name": "102S",
+      "building": "Junior High School",
+      "capacity": 55,
+      "created_at": "2022-08-10T07:49:39.000000Z",
+      "updated_at": "2022-08-10T07:49:39.000000Z"
+    },
+    {
+      "id": 87,
+      "name": "103S",
+      "building": "Junior High School",
+      "capacity": 55,
+      "created_at": "2022-08-10T07:49:51.000000Z",
+      "updated_at": "2022-08-10T07:49:51.000000Z"
+    },
+    {
+      "id": 13,
+      "name": "106S",
+      "building": "Senior High School",
+      "capacity": 55,
+      "created_at": "2022-06-30T02:25:59.000000Z",
+      "updated_at": "2022-06-30T02:25:59.000000Z"
+    },
+    {
+      "id": 14,
+      "name": "107S",
+      "building": "Senior High School",
+      "capacity": 55,
+      "created_at": "2022-06-30T02:26:18.000000Z",
+      "updated_at": "2022-06-30T02:26:18.000000Z"
+    },
+    {
+      "id": 15,
+      "name": "108S",
+      "building": "Senior High School",
+      "capacity": 55,
+      "created_at": "2022-06-30T02:26:38.000000Z",
+      "updated_at": "2022-06-30T02:26:58.000000Z"
+    },
+    {
+      "id": 17,
+      "name": "109S",
+      "building": "Senior High School",
+      "capacity": 55,
+      "created_at": "2022-06-30T02:27:13.000000Z",
+      "updated_at": "2022-06-30T02:27:13.000000Z"
+    },
+    {
+      "id": 6,
+      "name": "201A",
+      "building": "Admin Building",
+      "capacity": 55,
+      "created_at": "2022-06-30T02:17:25.000000Z",
+      "updated_at": "2022-06-30T02:19:32.000000Z"
+    },
+    {
+      "id": 88,
+      "name": "201S",
+      "building": "Junior High School",
+      "capacity": 55,
+      "created_at": "2022-08-10T07:50:10.000000Z",
+      "updated_at": "2022-08-10T07:50:10.000000Z"
+    },
+    {
+      "id": 7,
+      "name": "202A",
+      "building": "Admin Building",
+      "capacity": 55,
+      "created_at": "2022-06-30T02:18:29.000000Z",
+      "updated_at": "2022-06-30T02:19:21.000000Z"
+    },
+    {
+      "id": 89,
+      "name": "202S",
+      "building": "Junior High School",
+      "capacity": 55,
+      "created_at": "2022-08-10T07:50:25.000000Z",
+      "updated_at": "2022-08-10T07:50:25.000000Z"
+    },
+    {
+      "id": 8,
+      "name": "203A",
+      "building": "Admin Building",
+      "capacity": 55,
+      "created_at": "2022-06-30T02:18:49.000000Z",
+      "updated_at": "2022-06-30T02:19:11.000000Z"
+    },
+    {
+      "id": 90,
+      "name": "203S",
+      "building": "Junior High School",
+      "capacity": 55,
+      "created_at": "2022-08-10T07:50:36.000000Z",
+      "updated_at": "2022-08-10T07:50:36.000000Z"
+    },
+    {
+      "id": 9,
+      "name": "204A",
+      "building": "Admin Building",
+      "capacity": 55,
+      "created_at": "2022-06-30T02:20:01.000000Z",
+      "updated_at": "2022-06-30T02:20:01.000000Z"
+    },
+    {
+      "id": 91,
+      "name": "204S",
+      "building": "Junior High School",
+      "capacity": 55,
+      "created_at": "2022-08-10T07:51:06.000000Z",
+      "updated_at": "2022-08-10T07:51:06.000000Z"
+    },
+    {
+      "id": 92,
+      "name": "205S",
+      "building": "Junior High School",
+      "capacity": 55,
+      "created_at": "2022-08-10T07:51:16.000000Z",
+      "updated_at": "2022-08-10T07:51:16.000000Z"
+    },
+    {
+      "id": 18,
+      "name": "206S",
+      "building": "Senior High School",
+      "capacity": 55,
+      "created_at": "2022-06-30T02:27:27.000000Z",
+      "updated_at": "2022-06-30T02:27:27.000000Z"
+    },
+    {
+      "id": 19,
+      "name": "207S",
+      "building": "Senior High School",
+      "capacity": 55,
+      "created_at": "2022-06-30T02:27:38.000000Z",
+      "updated_at": "2022-06-30T02:27:38.000000Z"
+    },
+    {
+      "id": 20,
+      "name": "208S",
+      "building": "Senior High School",
+      "capacity": 55,
+      "created_at": "2022-06-30T02:28:00.000000Z",
+      "updated_at": "2022-06-30T02:28:00.000000Z"
+    },
+    {
+      "id": 21,
+      "name": "209S",
+      "building": "Senior High School",
+      "capacity": 55,
+      "created_at": "2022-06-30T02:28:11.000000Z",
+      "updated_at": "2022-06-30T02:28:11.000000Z"
+    },
+    {
+      "id": 82,
+      "name": "212S",
+      "building": "Senior High School",
+      "capacity": 55,
+      "created_at": "2022-08-09T23:03:13.000000Z",
+      "updated_at": "2022-08-09T23:03:13.000000Z"
+    },
+    {
+      "id": 10,
+      "name": "301A",
+      "building": "Admin Building",
+      "capacity": 65,
+      "created_at": "2022-06-30T02:20:24.000000Z",
+      "updated_at": "2022-08-22T07:24:12.000000Z"
+    },
+    {
+      "id": 93,
+      "name": "301S",
+      "building": "Junior High School",
+      "capacity": 55,
+      "created_at": "2022-08-10T07:51:39.000000Z",
+      "updated_at": "2022-08-10T07:51:39.000000Z"
+    },
+    {
+      "id": 11,
+      "name": "302A",
+      "building": "Admin Building",
+      "capacity": 55,
+      "created_at": "2022-06-30T02:20:37.000000Z",
+      "updated_at": "2022-08-23T02:59:39.000000Z"
+    },
+    {
+      "id": 94,
+      "name": "302S",
+      "building": "Junior High School",
+      "capacity": 55,
+      "created_at": "2022-08-10T07:51:53.000000Z",
+      "updated_at": "2022-08-10T07:51:53.000000Z"
+    },
+    {
+      "id": 28,
+      "name": "303A",
+      "building": "Admin Building",
+      "capacity": 50,
+      "created_at": "2022-06-30T02:29:35.000000Z",
+      "updated_at": "2022-08-23T03:01:25.000000Z"
+    },
+    {
+      "id": 95,
+      "name": "303S",
+      "building": "Junior High School",
+      "capacity": 55,
+      "created_at": "2022-08-10T07:52:10.000000Z",
+      "updated_at": "2022-08-10T07:52:10.000000Z"
+    },
+    {
+      "id": 31,
+      "name": "304A",
+      "building": "Admin Building",
+      "capacity": 55,
+      "created_at": "2022-06-30T02:31:12.000000Z",
+      "updated_at": "2022-08-23T02:53:22.000000Z"
+    },
+    {
+      "id": 96,
+      "name": "304S",
+      "building": "Junior High School",
+      "capacity": 55,
+      "created_at": "2022-08-10T07:52:25.000000Z",
+      "updated_at": "2022-08-10T07:52:25.000000Z"
+    },
+    {
+      "id": 32,
+      "name": "305A",
+      "building": "Admin Building",
+      "capacity": 55,
+      "created_at": "2022-06-30T02:32:44.000000Z",
+      "updated_at": "2022-08-23T02:51:02.000000Z"
+    },
+    {
+      "id": 97,
+      "name": "305S",
+      "building": "JHS/SHS Library",
+      "capacity": 55,
+      "created_at": "2022-08-10T07:53:13.000000Z",
+      "updated_at": "2022-08-10T07:53:13.000000Z"
+    },
+    {
+      "id": 46,
+      "name": "306A",
+      "building": "Admin Building",
+      "capacity": 55,
+      "created_at": "2022-07-19T00:42:26.000000Z",
+      "updated_at": "2022-08-23T03:00:11.000000Z"
+    },
+    {
+      "id": 23,
+      "name": "306S",
+      "building": "Senior High School",
+      "capacity": 55,
+      "created_at": "2022-06-30T02:28:25.000000Z",
+      "updated_at": "2022-06-30T02:28:25.000000Z"
+    },
+    {
+      "id": 47,
+      "name": "307A",
+      "building": "Admin Building",
+      "capacity": 55,
+      "created_at": "2022-07-19T00:42:36.000000Z",
+      "updated_at": "2022-08-23T03:01:43.000000Z"
+    },
+    {
+      "id": 24,
+      "name": "307S",
+      "building": "Senior High School",
+      "capacity": 55,
+      "created_at": "2022-06-30T02:28:34.000000Z",
+      "updated_at": "2022-06-30T02:28:34.000000Z"
+    },
+    {
+      "id": 48,
+      "name": "308A",
+      "building": "Admin Building",
+      "capacity": 55,
+      "created_at": "2022-07-19T00:42:44.000000Z",
+      "updated_at": "2022-08-23T02:53:33.000000Z"
+    },
+    {
+      "id": 83,
+      "name": "308S",
+      "building": "Senior High School",
+      "capacity": 55,
+      "created_at": "2022-08-09T23:04:04.000000Z",
+      "updated_at": "2022-08-09T23:04:04.000000Z"
+    },
+    {
+      "id": 22,
+      "name": "309A",
+      "building": "Admin Building",
+      "capacity": 65,
+      "created_at": "2022-06-30T02:28:18.000000Z",
+      "updated_at": "2022-08-24T05:54:01.000000Z"
+    },
+    {
+      "id": 26,
+      "name": "309S",
+      "building": "Senior High School",
+      "capacity": 55,
+      "created_at": "2022-06-30T02:28:49.000000Z",
+      "updated_at": "2022-06-30T02:28:49.000000Z"
+    },
+    {
+      "id": 25,
+      "name": "310A",
+      "building": "Admin Building",
+      "capacity": 65,
+      "created_at": "2022-06-30T02:28:40.000000Z",
+      "updated_at": "2022-08-23T03:00:40.000000Z"
+    },
+    {
+      "id": 79,
+      "name": "310S",
+      "building": "Senior High School",
+      "capacity": 55,
+      "created_at": "2022-08-09T22:59:40.000000Z",
+      "updated_at": "2022-08-09T22:59:40.000000Z"
+    },
+    {
+      "id": 27,
+      "name": "311A",
+      "building": "Admin Building",
+      "capacity": 65,
+      "created_at": "2022-06-30T02:29:11.000000Z",
+      "updated_at": "2022-08-23T03:01:57.000000Z"
+    },
+    {
+      "id": 80,
+      "name": "311S",
+      "building": "Senior High School",
+      "capacity": 55,
+      "created_at": "2022-08-09T23:01:05.000000Z",
+      "updated_at": "2022-08-09T23:01:05.000000Z"
+    },
+    {
+      "id": 36,
+      "name": "312A",
+      "building": "Admin Building",
+      "capacity": 65,
+      "created_at": "2022-06-30T02:33:48.000000Z",
+      "updated_at": "2022-08-22T07:23:42.000000Z"
+    },
+    {
+      "id": 81,
+      "name": "312S",
+      "building": "Senior High School",
+      "capacity": 55,
+      "created_at": "2022-08-09T23:01:41.000000Z",
+      "updated_at": "2022-08-09T23:01:41.000000Z"
+    },
+    {
+      "id": 76,
+      "name": "404S",
+      "building": "Senior High School",
+      "capacity": 55,
+      "created_at": "2022-07-25T07:37:32.000000Z",
+      "updated_at": "2022-07-25T07:37:32.000000Z"
+    },
+    {
+      "id": 73,
+      "name": "406S",
+      "building": "Senior High School",
+      "capacity": 55,
+      "created_at": "2022-07-25T07:36:14.000000Z",
+      "updated_at": "2022-08-12T09:27:12.000000Z"
+    },
+    {
+      "id": 34,
+      "name": "407S",
+      "building": "Senior High School",
+      "capacity": 50,
+      "created_at": "2022-06-30T02:33:27.000000Z",
+      "updated_at": "2022-07-25T07:36:40.000000Z"
+    },
+    {
+      "id": 74,
+      "name": "408S",
+      "building": "Senior High School",
+      "capacity": 60,
+      "created_at": "2022-07-25T07:37:02.000000Z",
+      "updated_at": "2022-08-24T07:25:32.000000Z"
+    },
+    {
+      "id": 75,
+      "name": "409S",
+      "building": "Senior High School",
+      "capacity": 55,
+      "created_at": "2022-07-25T07:37:11.000000Z",
+      "updated_at": "2022-08-12T09:28:06.000000Z"
+    },
+    {
+      "id": 43,
+      "name": "Activity Center",
+      "building": "Activity Center",
+      "capacity": 500,
+      "created_at": "2022-07-13T01:13:59.000000Z",
+      "updated_at": "2022-07-13T01:13:59.000000Z"
+    },
+    {
+      "id": 2,
+      "name": "Anatomy",
+      "building": "Admin Building",
+      "capacity": 55,
+      "created_at": "2022-04-12T01:09:50.000000Z",
+      "updated_at": "2022-07-18T23:54:33.000000Z"
+    },
+    {
+      "id": 37,
+      "name": "B101",
+      "building": "Admin Building",
+      "capacity": 55,
+      "created_at": "2022-07-13T01:11:34.000000Z",
+      "updated_at": "2022-07-13T01:11:34.000000Z"
+    },
+    {
+      "id": 38,
+      "name": "B102",
+      "building": "Admin Building",
+      "capacity": 55,
+      "created_at": "2022-07-13T01:11:44.000000Z",
+      "updated_at": "2022-07-13T01:11:44.000000Z"
+    },
+    {
+      "id": 39,
+      "name": "B103",
+      "building": "Admin Building",
+      "capacity": 55,
+      "created_at": "2022-07-13T01:11:51.000000Z",
+      "updated_at": "2022-07-13T01:15:09.000000Z"
+    },
+    {
+      "id": 40,
+      "name": "B104",
+      "building": "Admin Building",
+      "capacity": 55,
+      "created_at": "2022-07-13T01:12:02.000000Z",
+      "updated_at": "2022-07-13T01:12:02.000000Z"
+    },
+    {
+      "id": 41,
+      "name": "B105",
+      "building": "Admin Building",
+      "capacity": 55,
+      "created_at": "2022-07-13T01:12:12.000000Z",
+      "updated_at": "2022-07-13T01:12:12.000000Z"
+    },
+    {
+      "id": 42,
+      "name": "B106",
+      "building": "Admin Building",
+      "capacity": 55,
+      "created_at": "2022-07-13T01:13:36.000000Z",
+      "updated_at": "2022-07-13T01:13:36.000000Z"
+    },
+    {
+      "id": 78,
+      "name": "Chem Lab",
+      "building": "Junior High School",
+      "capacity": 50,
+      "created_at": "2022-08-01T09:26:13.000000Z",
+      "updated_at": "2022-08-01T09:26:13.000000Z"
+    },
+    {
+      "id": 12,
+      "name": "CLab 1",
+      "building": "Admin Building",
+      "capacity": 65,
+      "created_at": "2022-06-30T02:25:58.000000Z",
+      "updated_at": "2022-08-15T08:30:48.000000Z"
+    },
+    {
+      "id": 16,
+      "name": "CLab 2",
+      "building": "Admin Building",
+      "capacity": 35,
+      "created_at": "2022-06-30T02:26:46.000000Z",
+      "updated_at": "2022-08-18T01:47:58.000000Z"
+    },
+    {
+      "id": 33,
+      "name": "Function Room",
+      "building": "Mary's Mini Hotel",
+      "capacity": 40,
+      "created_at": "2022-06-30T02:32:55.000000Z",
+      "updated_at": "2022-08-17T07:56:40.000000Z"
+    },
+    {
+      "id": 69,
+      "name": "GMPH",
+      "building": "Outside MDC",
+      "capacity": 100,
+      "created_at": "2022-07-20T03:29:39.000000Z",
+      "updated_at": "2022-07-20T03:29:39.000000Z"
+    },
+    {
+      "id": 72,
+      "name": "HM Lab",
+      "building": "Hospitality Building",
+      "capacity": 25,
+      "created_at": "2022-07-21T08:02:14.000000Z",
+      "updated_at": "2022-07-21T08:02:14.000000Z"
+    },
+    {
+      "id": 77,
+      "name": "HM Lab (New)",
+      "building": "Admin Building",
+      "capacity": 50,
+      "created_at": "2022-07-26T06:38:28.000000Z",
+      "updated_at": "2022-08-19T08:26:51.000000Z"
+    },
+    {
+      "id": 44,
+      "name": "Mezzanine",
+      "building": "ITSC",
+      "capacity": 45,
+      "created_at": "2022-07-14T03:22:52.000000Z",
+      "updated_at": "2022-08-22T10:47:40.000000Z"
+    },
+    {
+      "id": 5,
+      "name": "Multi Media",
+      "building": "ITSC",
+      "capacity": 150,
+      "created_at": "2022-04-12T01:09:50.000000Z",
+      "updated_at": "2022-04-12T01:09:50.000000Z"
+    },
+    {
+      "id": 49,
+      "name": "New Anatomy 1",
+      "building": "Admin Building",
+      "capacity": 60,
+      "created_at": "2022-07-19T00:43:27.000000Z",
+      "updated_at": "2022-08-15T06:20:03.000000Z"
+    },
+    {
+      "id": 70,
+      "name": "New Anatomy 2",
+      "building": "Admin Building",
+      "capacity": 50,
+      "created_at": "2022-07-20T06:06:16.000000Z",
+      "updated_at": "2022-07-20T06:06:16.000000Z"
+    },
+    {
+      "id": 50,
+      "name": "New Skills Lab",
+      "building": "Admin Building",
+      "capacity": 50,
+      "created_at": "2022-07-19T00:45:12.000000Z",
+      "updated_at": "2022-07-19T02:12:03.000000Z"
+    },
+    {
+      "id": 68,
+      "name": "RCH",
+      "building": "Outside MDC",
+      "capacity": 100,
+      "created_at": "2022-07-20T03:29:23.000000Z",
+      "updated_at": "2022-07-20T03:29:23.000000Z"
+    },
+    {
+      "id": 71,
+      "name": "RHU",
+      "building": "Outside MDC",
+      "capacity": 100,
+      "created_at": "2022-07-21T00:29:11.000000Z",
+      "updated_at": "2022-07-21T00:29:11.000000Z"
+    },
+    {
+      "id": 29,
+      "name": "RLAB",
+      "building": "ITSC",
+      "capacity": 50,
+      "created_at": "2022-06-30T02:30:17.000000Z",
+      "updated_at": "2022-06-30T02:30:17.000000Z"
+    },
+    {
+      "id": 3,
+      "name": "S100",
+      "building": "Senior High School",
+      "capacity": 55,
+      "created_at": "2022-04-12T01:09:50.000000Z",
+      "updated_at": "2022-04-12T01:09:50.000000Z"
+    },
+    {
+      "id": 45,
+      "name": "Skills Lab - old",
+      "building": "HS building",
+      "capacity": 70,
+      "created_at": "2022-07-14T06:31:02.000000Z",
+      "updated_at": "2022-08-19T07:33:11.000000Z"
+    },
+    {
+      "id": 30,
+      "name": "SPEECH LAB",
+      "building": "ITSC",
+      "capacity": 55,
+      "created_at": "2022-06-30T02:31:04.000000Z",
+      "updated_at": "2022-08-26T01:19:12.000000Z"
+    },
+    {
+      "id": 64,
+      "name": "St. Agatha",
+      "building": "Elem Building",
+      "capacity": 40,
+      "created_at": "2022-07-19T11:08:10.000000Z",
+      "updated_at": "2022-07-19T11:08:10.000000Z"
+    },
+    {
+      "id": 56,
+      "name": "St. Andrew",
+      "building": "Elem Building",
+      "capacity": 40,
+      "created_at": "2022-07-19T11:04:57.000000Z",
+      "updated_at": "2022-07-19T11:04:57.000000Z"
+    },
+    {
+      "id": 52,
+      "name": "St. Anne",
+      "building": "Elem Building",
+      "capacity": 40,
+      "created_at": "2022-07-19T11:03:08.000000Z",
+      "updated_at": "2022-07-19T11:03:08.000000Z"
+    },
+    {
+      "id": 55,
+      "name": "St. Anthony",
+      "building": "Elem Building",
+      "capacity": 40,
+      "created_at": "2022-07-19T11:04:35.000000Z",
+      "updated_at": "2022-07-19T11:04:35.000000Z"
+    },
+    {
+      "id": 53,
+      "name": "St. Bernadette",
+      "building": "Elem Building",
+      "capacity": 40,
+      "created_at": "2022-07-19T11:03:34.000000Z",
+      "updated_at": "2022-07-19T11:03:34.000000Z"
+    },
+    {
+      "id": 54,
+      "name": "St. Catherine of Siena",
+      "building": "Elem Building",
+      "capacity": 40,
+      "created_at": "2022-07-19T11:04:16.000000Z",
+      "updated_at": "2022-07-19T11:04:16.000000Z"
+    },
+    {
+      "id": 59,
+      "name": "St. Cecilia",
+      "building": "Elem Building",
+      "capacity": 40,
+      "created_at": "2022-07-19T11:06:04.000000Z",
+      "updated_at": "2022-07-19T11:06:04.000000Z"
+    },
+    {
+      "id": 60,
+      "name": "St. Dorothy",
+      "building": "Elem Building",
+      "capacity": 40,
+      "created_at": "2022-07-19T11:06:21.000000Z",
+      "updated_at": "2022-07-19T11:06:21.000000Z"
+    },
+    {
+      "id": 57,
+      "name": "St. John",
+      "building": "Elem Building",
+      "capacity": 40,
+      "created_at": "2022-07-19T11:05:19.000000Z",
+      "updated_at": "2022-07-19T11:05:19.000000Z"
+    },
+    {
+      "id": 58,
+      "name": "St. Luke",
+      "building": "Elem Building",
+      "capacity": 40,
+      "created_at": "2022-07-19T11:05:49.000000Z",
+      "updated_at": "2022-07-19T11:05:49.000000Z"
+    },
+    {
+      "id": 66,
+      "name": "St. Maria Goreti",
+      "building": "Elem Building",
+      "capacity": 40,
+      "created_at": "2022-07-19T11:08:58.000000Z",
+      "updated_at": "2022-07-19T11:08:58.000000Z"
+    },
+    {
+      "id": 61,
+      "name": "St. Mark",
+      "building": "Elem Building",
+      "capacity": 40,
+      "created_at": "2022-07-19T11:06:37.000000Z",
+      "updated_at": "2022-07-19T11:06:37.000000Z"
+    },
+    {
+      "id": 63,
+      "name": "St. Mathew",
+      "building": "Elem Building",
+      "capacity": 40,
+      "created_at": "2022-07-19T11:07:06.000000Z",
+      "updated_at": "2022-07-19T11:07:06.000000Z"
+    },
+    {
+      "id": 51,
+      "name": "St. Michael",
+      "building": "Elem Building",
+      "capacity": 40,
+      "created_at": "2022-07-19T11:02:47.000000Z",
+      "updated_at": "2022-07-19T11:02:47.000000Z"
+    },
+    {
+      "id": 65,
+      "name": "St. Monica",
+      "building": "Elem Building",
+      "capacity": 40,
+      "created_at": "2022-07-19T11:08:23.000000Z",
+      "updated_at": "2022-07-19T11:08:23.000000Z"
+    },
+    {
+      "id": 62,
+      "name": "St. Therese",
+      "building": "Elem Building",
+      "capacity": 40,
+      "created_at": "2022-07-19T11:06:53.000000Z",
+      "updated_at": "2022-07-19T11:06:53.000000Z"
+    },
+    {
+      "id": 67,
+      "name": "TCH",
+      "building": "Outside MDC",
+      "capacity": 100,
+      "created_at": "2022-07-20T03:28:59.000000Z",
+      "updated_at": "2022-07-20T03:30:14.000000Z"
+    }
+  ]
+}
